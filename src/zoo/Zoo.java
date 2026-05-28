@@ -15,6 +15,7 @@ public class Zoo {
      */
     public static void main(String[] args) {
         System.out.println("Das ist was anderes.");
+        System.out.println("Maybe so");
     }
     
 }
