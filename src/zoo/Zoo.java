@@ -17,8 +17,6 @@ public class Zoo {
         System.out.println("Das ist was anderes.");
         System.out.println("Maybe so");
         System.out.println("Es geht nicht!!!");
-        System.out.println("Cöck");
-        System.out.println("?");
     }
     
 }
